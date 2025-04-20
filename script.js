@@ -1,5 +1,5 @@
 const apiURL = "https://api.openweathermap.org/data/2.5/weather?&units=metric";
-const apiKey = "&appid=379e7e8a9a10eb7c41a3681459e24a3b";
+const apiKey = "&appid={API Key}";
 let cityName = "";
 var data;
 
